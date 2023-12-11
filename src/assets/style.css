@@ -1,0 +1,22 @@
+label{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+.form-wrap{
+    
+  /* margin-top: 100px; */
+  padding: 7px;
+  
+ 
+}
+.form-wrap>input{
+    margin-top: 15px;
+}
+
+
+/* form{
+    gap: 20px;
+} */
+/* for register card */
